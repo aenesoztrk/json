@@ -1,11 +1,5 @@
 {
-  "id": "116773",
-  "name": "Ahmet Enes",
-  "surname": "Öztürk",
-  "profileImage": "https://widgetwhats.com/app/uploads/2019/11/free-profile-photo-whatsapp-4-300x300.png",
-  "availableTransports": ["Car","Bike","Public","Taxi","Scooter"],
-  "balance": 20.05,
-  "currencyToken": "USD",
-  "companyName": "UBER",
-  "prefferedTransportList": ["Car","Bike","Public","Taxi","Scooter"],
+  "country": "Turkey",
+  "lat": 40.9130116, 
+  "long": 29.2094771
 }
