@@ -1,10 +1,22 @@
-{
-  "country": "Turkey",
-  "name": "Ahmet Enes",
-  "surname": "Öztürk",
-  "lat": 40.9130116, 
-  "long": 29.2094771,
-  "type": "Car",
-  "stars": 4.18,
-  "profileURL": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/64x64/businessperson2.png"
-}
+[
+  {
+    "country": "Turkey",
+    "name": "Ahmet Enes",
+    "surname": "Öztürk",
+    "lat": 40.9130116, 
+    "long": 29.2094771,
+    "type": "Car",
+    "stars": 4.18,
+    "profileURL": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/64x64/businessperson2.png"
+  },
+  {
+    "country": "Germany",
+    "name": "Kutluhan",
+    "surname": "Hakan",
+    "lat": 52.520008, 
+    "long": 13.404954,
+    "type": "Car",
+    "stars": 3.95,
+    "profileURL": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/64x64/businessperson2.png"
+  }
+]
